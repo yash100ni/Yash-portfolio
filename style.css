@@ -1160,6 +1160,7 @@ main {
   gap: 20px;
 }
 
+
 .certificate-post-item>a {
   position: relative;
   background: var(--border-gradient-onyx);
