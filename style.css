@@ -1930,6 +1930,23 @@ textarea.form-input::-webkit-resizer {
     margin: auto;
   }
 
+	 body .credit {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    padding-top: 2.5rem;
+    font-size: 1rem;
+    color: #fff;
+    border-top: var(--border);
+    display: flex;
+    margin-left: 480px;
+  }
+
+  body .credit span {
+    color: rgb(233, 175, 67);
+
+  }
+
 
 
   /**
