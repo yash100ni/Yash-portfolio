@@ -485,7 +485,9 @@ main {
   color: var(--light-gray);
 }
 
-
+.sidebar-info img {
+  filter: drop-shadow(1px 1px 20px grey);
+}
 
 
 
